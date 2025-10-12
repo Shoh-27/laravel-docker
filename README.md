@@ -52,7 +52,7 @@ Disk: 10GB free space
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/laravel-docker.git
+git clone https://github.com/Shoh-27/laravel-docker.git
 cd laravel-docker
 ```
 
@@ -421,7 +421,7 @@ sudo systemctl start docker
 
 ```bash
 # Clone repository
-git clone https://github.com/username/laravel-docker.git
+git clone https://github.com/Shoh-27/laravel-docker.git
 cd laravel-docker
 
 # Copy Laravel project to src/
@@ -617,14 +617,10 @@ Contributions are welcome!
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Shoh-27](https://github.com/Shoh-27)
+- Email: shohruxn405@gmail.com
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
