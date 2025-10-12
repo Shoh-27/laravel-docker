@@ -644,6 +644,6 @@ Agar bu repo foydali bo'lsa, ⭐ **star** bering!
 
 **Made with ❤️ for Laravel Developers**
 
-[Report Bug](https://github.com/username/laravel-docker/issues) · [Request Feature](https://github.com/username/laravel-docker/issues)
+[Report Bug](https://github.com/shoh-27/laravel-docker/issues) · [Request Feature](https://github.com/shoh-27/laravel-docker/issues)
 
 </div>
